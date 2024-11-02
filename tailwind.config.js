@@ -13,8 +13,10 @@ export default {
             'laptop': '1024px'
         }
     },
+    darkMode: 'class',
     plugins: [
         require('flowbite/plugin'),
     ],
 }
+
 
